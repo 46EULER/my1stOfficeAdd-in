@@ -8,7 +8,8 @@ As I have a little coding skills, my route starts from [MS Office Add-ins Docume
 
 ### 2. Have a look of [Office JavaScript API](https://learn.microsoft.com/en-us/training/modules/understand-office-javascript-apis/index).  
 
->Since I'm familiar with VBA, all I need to do is build a function map between VBA and JS API.
+>Since I'm familiar with VBA, all I need to do is build a function map between VBA and JS API.  
+>All these documents can be downloaded onto your laptop as pdf.
 ### 3. Familiar with [Office Add-ins manifest](https://learn.microsoft.com/en-us/office/dev/add-ins/develop/add-in-manifests).  
 
 
